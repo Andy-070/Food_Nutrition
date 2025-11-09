@@ -40,7 +40,7 @@ A *Streamlit app* serves as the final interface for real-time nutrition insights
 
 ### 🧩 *Group 2 – Ridge Regression & Streamlit Application*
 *Members:*  
-- *Anurag Bhavthankar (2024bitXXX)*  
+- *Anurag Bhavthankar (2024bit505)*  
 - *Priti Sanghai (2023bit153)*  
 
 *Responsibilities:*  
